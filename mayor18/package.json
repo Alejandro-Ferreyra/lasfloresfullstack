@@ -1,0 +1,26 @@
+{
+  "name": "lasfloresfullstack",
+  "version": "1.0.0",
+  "description": "-Repo Las Flores Full Stack-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandro-ferreyra/lasfloresfullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandro-ferreyra/lasfloresfullstack/issues"
+  },
+  "homepage": "https://github.com/alejandro-ferreyra/lasfloresfullstack#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
